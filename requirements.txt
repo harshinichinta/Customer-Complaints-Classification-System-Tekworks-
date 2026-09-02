@@ -6,6 +6,7 @@ fastapi
 uvicorn[standard]
 streamlit
 requests
+plotly
 matplotlib
 seaborn
 pytest
